@@ -37,7 +37,7 @@
 
                 // 1. Creation
                             // global Object -> window/ global ,
-                            // this
+                            // this -> always determined when 
                             // memory allocation ->hoisting 
                                         // function -> there memory is allocated inside heap 
                                         // var -> undefined
